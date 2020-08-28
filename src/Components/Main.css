@@ -1,0 +1,54 @@
+.main-wrapper {
+    font-weight: normal;
+    text-align: center;
+    width: 100%;
+}
+
+.submission-wrapper {
+    padding: 10px 100px;
+    color: gray;
+}
+
+.submission-wrapper p {
+    color: gray;
+}
+
+.submission-wrapper input {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.submission-wrapper textarea {
+    width: 200px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.submission-wrapper h1 {
+    font-weight: Normal;
+    border-bottom: solid 5px rgb(0, 206, 209);
+    padding-bottom: 5px;
+    padding-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 60px;
+    color: gray;
+}
+
+.timeline-wrapper {
+    font-weight: normal;
+    padding: 10px 100px;
+    color: gray;
+}
+
+.timeline-wrapper h1 {
+    border-bottom: solid 5px rgb(0, 206, 209);
+    padding-bottom: 5px;
+    padding-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 80px;
+    font-weight: normal;
+    color: gray;
+}
+

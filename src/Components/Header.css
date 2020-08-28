@@ -1,0 +1,29 @@
+.header {
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    z-index: 10;
+}
+
+.header-left {
+    float: left;
+}
+
+.header-right {
+    float: right;
+}
+
+.logo {
+    width: 124px;
+    padding-top: 2.5px;
+    padding-left: 10px;
+}
+
+.icon img {
+    width: 40px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 1px;
+}
